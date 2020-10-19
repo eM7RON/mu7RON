@@ -6,7 +6,7 @@
 
 Alternative forms: mutron, mootron  
 
-Etymology: from nonsensical English and leet speak
+Etymology: from nonsensical English and 1337 speak
 
 NOUN UNCOUNTABLE /ˈmjuːtron/  
 
