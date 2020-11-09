@@ -1,11 +1,13 @@
 class Note:
-    div = ''
+    div = ""
+
     def __init__(self, tick, res, tsig):
         self.tick = tick
-        self.res  = res
+        self.res = res
         self.tsig = tsig
+
     def __repr__(self):
-        return f'{self.__class__.__name__}(tick={self.tick}, res={self.res}, tsig={self.tsig})'
+        return f"{self.__class__.__name__}(tick={self.tick}, res={self.res}, tsig={self.tsig})"
 
 
 class WholeNote(Note):
